@@ -7236,7 +7236,7 @@ button:hover:after {
 .lgx-header .menu-onscroll .lgx-nav-right .lgx-search,
 .lgx-header-position-white .lgx-nav-right .lgx-search a,
 .lgx-header-position-white .lgx-navbar .lgx-nav li a {
-    color: #fff
+    color: #000
 }
 
 .lgx-header {
@@ -7297,7 +7297,7 @@ button:hover:after {
 }
 
 .lgx-header .menu-onscroll {
-    background: rgba(87, 253, 93, 0.95);
+    background: rgba(241, 241, 65, 0.95);
     position: fixed;
     top: 0;
     width: 100%;
@@ -7340,7 +7340,7 @@ button:hover:after {
 }
 
 .lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a {
-    color: #fff
+    color: #000
 }
 
 .lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a:hover {
@@ -7499,7 +7499,7 @@ button:hover:after {
     }
 
     .lgx-header-position {
-        background: #4bf166
+        background: rgba(241, 241, 65, 0.95);
     }
 
     .lgx-header-position-fixed {
@@ -7514,7 +7514,7 @@ button:hover:after {
 
     .lgx-header .lgx-nav-right .lgx-search,
     .lgx-header .lgx-navbar .lgx-nav li a {
-        color: #fff
+        color: #000
     }
 
     .lgx-navbar .lgx-nav li a.lgx-btn {
@@ -13002,7 +13002,7 @@ blockquote.lgx-testi-single:before {
 }
 
 .lgx-footer .lgx-inner-footer {
-    background: rgba(23, 241, 12, 0.95)
+    background: rgba(2, 105, 4, 0.95);
 }
 
 .lgx-footer-music {
