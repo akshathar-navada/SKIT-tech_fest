@@ -7159,7 +7159,7 @@ button:hover:after {
 }
 
 .header-top {
-    background: #1b273d
+    background: #410deb
 }
 
 .header-top .header-top-inner ul li {
@@ -7200,7 +7200,7 @@ button:hover:after {
 
 .header-top .header-top-inner .right-menu .login-register a {
     font-family: Oswald, sans-serif;
-    background: rgba(255, 255, 255, .1);
+    background: rgba(19, 37, 237, 0.1);
     color: #554bb9;
     padding: 15px 2rem
 }
@@ -7293,7 +7293,7 @@ button:hover:after {
 }
 
 .lgx-header-background-black {
-    background: #1b273d
+    background: #4319a3
 }
 
 .lgx-header .menu-onscroll {
@@ -7499,7 +7499,7 @@ button:hover:after {
     }
 
     .lgx-header-position {
-        background: #1b273d
+        background: #4bf166
     }
 
     .lgx-header-position-fixed {
@@ -7523,7 +7523,9 @@ button:hover:after {
 
     .lgx-header .lgx-navbar .lgx-logo a img,
     .lgx-header .menu-onscroll .lgx-navbar .lgx-logo a img {
+        height: 60px;
         max-width: 200px
+        
     }
 
     .navbar-default .navbar-toggle {
@@ -8269,7 +8271,7 @@ button:hover:after {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #554bb9
+    background: #754bb9
 }
 
 .lgx-owlgallery,
